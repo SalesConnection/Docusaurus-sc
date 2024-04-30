@@ -1,15 +1,17 @@
-# 🔑 Why I unable to check in? 
 
+## 🔑 Why I unable to check in? 
+<br>
 <aside>
 (If yes to each, move on to the next scenario)
 
 - **Is the address correct** ✅**?**
-- **Is the staff near the site?**
-    
-    *Blue dot* 🔵 indicates staff’s current location.
-    
-    *Red dot* 🔴 indicates the site’s location 📌 (destination).
-    
+
+<details open> 
+<summary>**Is the staff near the site?**</summary>
+&emsp;*Blue dot* 🔵 indicates staff’s current location.
+<br>
+&emsp;*Red dot* 🔴 indicates the site’s location 📌 (destination).
+</details>
 - **Can the other technicians at the site check in?**
 - **Is the internet connection/network strong enough?**
     
