@@ -11,6 +11,7 @@ $ npx create-docusaurus@latest <my-website> classic
 ### Local Development
 
 ```
+npm install
 $ cd <my-website>
 npm run start
 
