@@ -41,7 +41,7 @@
     
     Users must enable location permission for the app when they use it for the first time. If the permission was disabled, user will not be able to check-in as image below: 
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d24018e-8645-428c-a93a-4937844fff56/2278fb52-7902-48b2-b24e-8ab76099f343/Untitled.png)
+    ![Untitled](https://github.com/SalesConnection/support-docs/blob/main/docs/Unale%20Check%20In.jpg)
     
     To enable the permission: Settings > App Settings > Sales Connection > Under Permission section, select Location and change to “Allow only while using the app”. 
     
