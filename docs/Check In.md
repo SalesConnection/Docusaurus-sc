@@ -1,7 +1,7 @@
-# Login
+# 🔑 Why I unable to check in? 
 
 <aside>
-🔑 **Why I unable to check-in?** *(If yes to each, move on to the next scenario)*
+(If yes to each, move on to the next scenario)
 
 - **Is the address correct** ✅**?**
 - **Is the staff near the site?**
