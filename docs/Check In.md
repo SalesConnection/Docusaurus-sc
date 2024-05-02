@@ -39,7 +39,7 @@
     <div style="flex: 0 0 auto; padding-left: 1.5em;">
         &emsp; First, make sure GPS 🛰️ is turned on.<br>
         &emsp; If the user is at the basement/lift/car park, request him to go somewhere outside, and try to check in from the job details page again.<br>
-        &emsp; If still cannot, ask him to turn off the GPS then turn on again, and restart the Sales Connection app.
+        &emsp; If still cannot, ask him to turn off the GPS then turn it on again, and restart the Sales Connection app.
     </div>
 </p>
 
