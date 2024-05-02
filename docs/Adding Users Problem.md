@@ -42,7 +42,7 @@
   2. Download the Sales Connection app from Google Playstore or App Store.<br>
   3. Log in using the registered phone number, or email address with a password.<br><br>
 
-&emsp; *Only email addresses that are verified will be sent.<br>
+&emsp;&emsp; *Only email addresses that are verified will be sent.<br>
 
 
 </aside>
