@@ -6,14 +6,14 @@
 
 ### What Error Message Appeared?<br><br>
 
-  **1. The user is not invited**<br><br>
+  **1. The user is not invited**<br>
        &emsp; a. Is the phone number entered correctly?<br><br>
        &emsp; b. Check from the screenshot provided, does it match the phone number registered for the user?<br><br>
        &emsp; c. If it is a completely different phone number,<br>
        &emsp;&emsp;&emsp; - User is not added to the system.<br>
        &emsp;&emsp;&emsp; - User changed the phone number.<br><br>
         
-  **2. Response from server error**<br><br>
+  **2. Response from server error**<br>
        &emsp; a. Request information from the user<br>
        &emsp;&emsp;&emsp; - Account details, consistent error or happen only once.<br>
        &emsp;&emsp;&emsp; - Anyone else from the company facing this issue?<br><br>
@@ -21,7 +21,7 @@
        &emsp; c. Check with the developer team<br>
        &emsp;&emsp;&emsp; - For a response from server error, most like our side has issues.<br><br>
 
-  **3. Connection Error**<br><br>
+  **3. Connection Error**<br>
        &emsp; a. Is the internet connection and speed strong enough?<br><br>
        &emsp; b. If the internet connection is weak - request the user to connect to another network (e.g. colleague's mobile hotspot) and try again.<br><br>
        &emsp; c. Request the user to download the internet speed testing app:<br>
@@ -38,7 +38,7 @@
   **2. If a wrong number is entered and the user is blocked from requesting TAC code (24 hours),**<br>
        &emsp; a. Request the user to login using his email address and password.<br><br>
        
-  **3. If the user forgets his email or password, ask him to:**<br><br>
+  **3. If the user forgets his email or password, ask him to:**<br>
        &emsp; a. Click the green question mark button on the button right corner of the login page.<br><br>
        &emsp; b. Fill in the phone number.<br><br>
        &emsp; c. Contact Sales Connection support to obtain a code.<br><br>
