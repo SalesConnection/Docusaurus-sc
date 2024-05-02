@@ -52,7 +52,7 @@
 <br>**8. Is the permission enabled for the Sales Connection app to access their phone location 📍 ?**
 <p>
     &emsp; Users must enable location permission for the app when they use it for the first time. If the permission was disabled, user will not be able to check in as image below.<br>
-    &emsp; ![Check In Error](https://github.com/SalesConnection/support-docs/blob/main/docs/Check%20In.png?raw=true)<br>
+    &emsp; ![Check In Error](/docs/Check In.png)<br>
     &emsp; To enable the permission: Settings > App Settings > Sales Connection > Under Permission section, select Location and change to “Allow only while using the app”.<br>
     &emsp; Once done, close and re-open the app.
 </p>
