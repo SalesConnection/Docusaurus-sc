@@ -5,7 +5,7 @@
     
 <br> <!-- Adding one line space -->
 
-- **If the whole app including the landing page is loading slowly"**<br>
+**If the whole app including the landing page is loading slowly"**<br>
 
 1. Is the user in offline mode?.<br>
 
@@ -20,7 +20,7 @@
     
 3. If No, go to the job details page and check if the photo is submitted.<br><br>
 
-- **If only certain page or feature of the app is loading slowly**<br>
+**If only certain page or feature of the app is loading slowly**<br>
 
   Contact Sales Connection's support to solve the issue.
 
