@@ -24,6 +24,10 @@
   You might have reached the maximum limit of user accounts that can be created.<br>
   To check the remaining number of user accounts available, go to the desktop site’s navigation bar > User Management > User List. It is stated at the top of this page under “Reminder.”<br>
 
+  <p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/Unable%20Check%20In.jpg" alt="Check In Error">
+  </p>
+  
   If you want to add more users, contact us to upgrade your subscription plan.<br><br>
 
 - **What are the required fields for me to add users to the system?**<br>
@@ -32,10 +36,10 @@
 
 - **I have added the user to the system, what is the next step?**<br>
 
-&emsp; Ask the user to:<br>
-&emsp;&emsp; a.	Verify his account through a verification email sent from admin@salesconnection.my. He will receive another email with a password after verification.<br>
-&emsp;&emsp; b.	Download the Sales Connection app from Google Playstore or App Store.<br>
-&emsp;&emsp; c.	Log in using the registered phone number, or email address with password.<br>
+  Ask the user to:<br>
+  a. Verify his account through a verification email sent from admin@salesconnection.my. He will receive another email with a password after verification.<br>
+  b. Download the Sales Connection app from Google Playstore or App Store.<br>
+  c. Log in using the registered phone number, or email address with password.<br>
 
 &emsp; *we will only send emails to email addresses that are verified.<br>
 
