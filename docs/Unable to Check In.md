@@ -26,14 +26,14 @@
 - **Is the internet speed 🌐 fast enough?**<br>
 
   Request the user to download internet speed testing app:<br>
-  **Android:** https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest<br>
-  **IOS:** https://apps.apple.com/us/app/speedtest-by-ookla/id300704847<br><br>
+  - **Android:** https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest<br>
+  - **IOS:** https://apps.apple.com/us/app/speedtest-by-ookla/id300704847<br><br>
 
 - **Is the user’s phone GPS working?**<br>
 
-  First, make sure GPS 🛰️ is turned on.<br>
-  If the user is at the basement/lift/car park, request him to go somewhere outside, and try to check in from the job details page again.<br>
-  If still cannot, ask him to turn off the GPS then turn it on again, and restart the Sales Connection app.<br><br>
+  1. First, make sure GPS 🛰️ is turned on.<br>
+  2. If the user is at the basement/lift/car park, request him to go somewhere outside, and try to check in from the job details page again.<br>
+  3. If still cannot, ask him to turn off the GPS then turn it on again, and restart the Sales Connection app.<br><br>
 
 - **Is the GPS location enabled 📍 ?**<br>
 
@@ -45,8 +45,7 @@
   <p align="center">
     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/Unable%20Check%20In.jpg" alt="Check In Error">
   </p>
-  To enable the permission: Settings > App Settings > Sales Connection > Under Permission section, select Location and change to “Allow only while using the app”.<br>
-  Once done, close and re-open the app.<br><br>
+  To enable the permission: Settings > App Settings > Sales Connection > Under Permission section, select Location and change to “Allow only while using the app”. Once done, close and re-open the app.<br><br>
 
 - **Is the user’s phone consisting of fake GPS app?**<br>
 
