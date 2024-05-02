@@ -13,13 +13,11 @@
      
   2. Is the internet connection and speed strong enough?<br>
 
-     - If internet connection is weak - request user to connect to another network (e.g. colleague’s mobile hotspot) and try again.<br>
-     - Is the internet speed fast enough?<br>
-
-     Request the user to download internet speed testing app:
-
-     **Android:** https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest*<br>
-     **IOS:** https://apps.apple.com/us/app/speedtest-by-ookla/id300704847*<br>
+     a. If internet connection is weak - request user to connect to another network (e.g. colleague’s mobile hotspot) and try again.<br>
+     b. Is the internet speed fast enough?<br>
+        - Request the user to download internet speed testing app:
+        - **Android:** https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest*<br>
+        - **IOS:** https://apps.apple.com/us/app/speedtest-by-ookla/id300704847*<br>
     
   3. If No, go to the job details page and check if the photo is submitted.<br><br>
 
