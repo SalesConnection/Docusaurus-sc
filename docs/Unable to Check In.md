@@ -43,7 +43,7 @@
 
   Users must enable location permission for the app when they use it for the first time. If the permission was disabled, user will not be able to check in as image below.<br>
   <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/docs/Check%20In.png" alt="Check In Error">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/Unable%20Check%20In.jpg" alt="Check In Error">
   </p>
   To enable the permission: Settings > App Settings > Sales Connection > Under Permission section, select Location and change to “Allow only while using the app”.<br>
   Once done, close and re-open the app.<br><br>
