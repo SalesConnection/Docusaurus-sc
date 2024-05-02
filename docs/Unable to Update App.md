@@ -12,7 +12,7 @@
 - **If user clicks "OPEN PLAY STORE" but the Playstore cannot detect the new update (image below)**<br>
 
   <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/docs/Unable%20update%20app%201.png?raw=true" alt="Update Required">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/Unable%20update%20app%201.png" alt="Update Required">
     <img src="https://github.com/SalesConnection/support-docs/blob/main/docs/Unable%20update%20app%202.png?raw=true" alt="Playstore">
   </p>
   
