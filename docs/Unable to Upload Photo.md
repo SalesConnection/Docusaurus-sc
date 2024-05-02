@@ -24,10 +24,10 @@
 
 - **If it is mobile, check settings if the user is allowed to upload from the gallery or not.**<br>
 
-  Make sure permission is given to upload a photo.<br>
+  Make sure permission is given to upload a photo.<br><br>
   
 - **If custom camera setting is on:**<br>
 
-  Enable camera on = upload gallery photo from attachment.
+  Enable camera on = upload gallery photo from attachment.<br>
   
 </aside>
