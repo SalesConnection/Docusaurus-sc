@@ -18,11 +18,11 @@
   
   Request the user to:
   
-  - Close the Playstore.<br>
-  - Kill the app by swiping up.<br>
-  - Re-open the Playstore.<br>
-  - Search for "Sales Connection".<br>
-  - Update the Sales Connection app following the normal procedures ("Open" will become "Update").<br><br>
+  1. Close the Playstore.<br>
+  2. Kill the app by swiping up.<br>
+  3. Re-open the Playstore.<br>
+  4. Search for "Sales Connection".<br>
+  5. Update the Sales Connection app following the normal procedures ("Open" will become "Update").<br><br>
 
 - **If the user's phone version is too old to support the update,**<br>
 
@@ -30,8 +30,8 @@
   
   Request the user to:
   
-  - Try to update his Android/IOS system to as newer version as possible.<br>
-  - Change to a new phone 📱.<br>
-  - Try to uninstall and install again the app to see whether the latest version of Sales Connection app will be used.<br><br>
+  1. Try to update his Android/IOS system to as newer version as possible.<br>
+  2. Change to a new phone 📱.<br>
+  3. Try to uninstall and install again the app to see whether the latest version of Sales Connection app will be used.<br><br>
 
 </aside>
