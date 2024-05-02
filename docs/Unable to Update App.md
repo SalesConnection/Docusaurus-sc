@@ -13,7 +13,7 @@
 
   <p align="center">
     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/Unable%20update%20app%201.png" alt="Update Required">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/docs/Unable%20update%20app%202.png?raw=true" alt="Playstore">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/Unable%20update%20app%202.png" alt="Playstore">
   </p>
   
   Request the user to:
