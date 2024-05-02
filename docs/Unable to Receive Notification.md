@@ -21,8 +21,7 @@
 
 - **Is your phone in “Do Not Disturb”, Night or Power Saving mode?**<br>
 
-  These modes will block notifications on your phone. Go to the Quick Settings Panel (swipe down from the top of your screen) and turn these icons off.<br>
-  Vivo:  *https://www.vivo.com/en/support/questionByTitle?title=How%20to%20keep%20my%20apps%20always%20running%20in%20the%20background*<br><br>
+  These modes will block notifications on your phone. Go to the Quick Settings Panel (swipe down from the top of your screen) and turn these icons off.<br><br>
 
 - **Install and uninstall if the notification doesn’t come with the ringtone.**<br>
 
