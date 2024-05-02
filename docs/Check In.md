@@ -24,7 +24,7 @@
 
 <br>**4. Is the internet connection/network strong enough?**
 <p>
-    &emsp; If internet connection is weak - requests user to connect to another network (e.g. colleague’s mobile hotspot 📱) and try again.
+    &emsp; If the internet connection is weak - request user to connect to another network (e.g. colleague’s mobile hotspot 📱) and try again.
 </p>
 
 <br>**5. Is the internet speed 🌐 fast enough?**
@@ -46,19 +46,20 @@
 
 <br>**7. Is the GPS location enabled 📍 ?**
 <p>
-    &emsp; Swipe down the status bar to enable Location. For certain phone model 📱, it may require the user to swipe up from bottom instead to enable location.
+    &emsp; Swipe down the status bar to enable Location. For certain phone models 📱, it may require the user to swipe up from the bottom instead to enable location.
 </p>
 
 <br>**8. Is the permission enabled for the Sales Connection app to access their phone location 📍 ?**
 <p>
-    &emsp; Users must enable location permission for the app when they use it for the first time. If the permission was disabled, user will not be able to check-in as image below.<br>
+    &emsp; Users must enable location permission for the app when they use it for the first time. If the permission was disabled, user will not be able to check in as image below.<br>
+    &emsp; ![Check In Error](/docs/Check In.png)<br>
     &emsp; To enable the permission: Settings > App Settings > Sales Connection > Under Permission section, select Location and change to “Allow only while using the app”.<br>
     &emsp; Once done, close and re-open the app.
 </p>
 
 <br>**9. Is the user’s phone consisting of fake GPS app?**
 <p>
-    &emsp; User must disable the fake GPS 🛰️ to check in successfully.
+    &emsp The user must disable the fake GPS 🛰️ to check in successfully.
 </p>
     
 </aside>
