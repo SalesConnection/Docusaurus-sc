@@ -27,7 +27,11 @@
 
   This is due to the Sales Connection ringtone comes with a special tone. To reset, just install and uninstall.<br>
 
-
+  <p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/Unable%20update%20app%201.png" alt="Update Required">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/Unable%20update%20app%202.png" alt="Playstore">
+  </p>
+  
   Default will be the notification sound provided by the app. But if user changes/uses a different notification tone, there will be no sound.<br>
   
     
