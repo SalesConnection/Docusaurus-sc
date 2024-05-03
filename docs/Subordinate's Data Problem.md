@@ -1,17 +1,13 @@
 
-## 🔑 Deleting & Deactivating Users
+## 🔑 Subordinate's Data
 <aside>
 (If yes to each, move on to the next scenario)
     
 <br> <!-- Adding one line space -->
 
-- **What will happen if I delete a user from the system?**<br>
+- **Can staff view their subordinates’ jobs and schedules?**<br>
 
-  1. The user will not be able to log into (access) the system.<br>
-  2. The user will be removed from all the items he was assigned to/created. (Assigned to/ Creator column will remove deleted user)<br>
-  3. The users’ jobs cannot be traced in the schedule and metrics overview pages.<br>
-
-  &emsp; *Note: All updates, comments, and check-ins/outs of the deleted user will remain in the system.<br><br>
+  No. Staff account users can only view the jobs that are assigned to them..<br><br>
 
 - **How to delete a user?**<br>
 
