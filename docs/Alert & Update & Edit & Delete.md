@@ -4,9 +4,9 @@
     
   1. Go to the job details page > Assigned To field. Click on the user you want to alert.<br>
   2. After adding a comment, there will be a pop-up status and alert prompt. Under Alert this user, check/tick the user(s) you want to alert. To alert users who are not assigned to the job, check/tick the user(s) under Assign and alert this user. Click “Save”.<br>
-  3. Use alias, e.g. @Staff1 when you comment on the job. This will alert the user.<br>
+  3. Use an alias, e.g. @Staff1 when you comment on the job. This will alert the user.<br>
 
-  *Note: all alerted users must be assigned into the job.<br><br>
+&emsp;&emsp; *Note: all alerted users must be assigned into the job.<br><br>
 
 </aside>
 
@@ -18,7 +18,9 @@
   If you are assigned to a job but cannot update it,<br>
   1. There might be a required comment category which is not met (a window will pop out). Fulfill the stated requirements to update the job status. (Eg. “Action Taken” comment is required to be done before changing Job Status.)<br>
 
-  
+  <p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/Unable%20Check%20In.jpg" alt="Check In Error">
+  </p>
      
   2. You may not have access to modify the statuses of jobs. Check with your admin.<br>
 
