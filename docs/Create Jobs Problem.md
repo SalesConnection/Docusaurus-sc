@@ -1,33 +1,46 @@
 
-## 🔑 User List
+## 🔑 Create Jobs
 <aside>
 (If yes to each, move on to the next scenario)
     
 <br> <!-- Adding one line space -->
 
-- **What can I do with the user list?**<br>
+- **How to create a job under a customer and project?**<br>
 
-  You can check the list of all present users in your system, edit users’ details (e.g. staff category, account type), deactivate user, and delete user.<br><br>
+  **Option 1:**<br>
+  1. On the schedule page, click “+”.<br>
+  2. To attach a customer to the job, click “+” beside Customer. Then select a project for which the job is under.<br>
+  3. Fill out the details of the job (category, status, date, description, reminder, etc).<br>
+  4. Assign users to the job.<br>
+  5. Click “Save Job”.<br><br>
+
+  **Option 2:**<br>
+  1. On the customer details page, go to the Job tab, click “+” (for desktop site, select New Job).<br>
+  2. Select a project for which the job is under.<br>
+  3. Fill out the details of the job (category, status, date, description, reminder, etc).<br>
+  4. Assign users to the job.<br>
+  5. Click “Save Job”.<br><br>
   
-- **What is the green tick button inside the user list?**<br>
+- **How to create a job without attaching to any customer or project?**<br>
 
-  The green tick button indicates that a user account is currently activated. Once you click on the button, the user will be deactivated (i.e. he can no longer log in to his account).<br>
+  1. On the schedule page, click “+”.<br>
+  2. Fill out the details of the job while leaving the Customer field empty.<br>
+  3. Assign users to the job.<br>
+  4. Click “Save Job".<br><br>
 
-  When a user is deactivated, the tick button will turn red, indicating that the user is currently deactivated.<br><br>
+- **(Staff) Why can’t I create a job under a customer/project?**<br>
 
-- **I saw some users with a red exclamation icon, what does it do?**<br>
+  You can only create jobs under a customer/project that you are assigned to.<br>
+  If you are assigned to a customer/project but cannot create a job under it, you may not have job creation access. Check with your admin.
 
-  The red exclamation icon indicates that a user’s email address is not verified yet. Click on the red icon to send a verification email to the user.<br><br>
+  *Note: sub-admin can create job under customers with green view, but not under grey view.<br><br>
   
-- **Some users have a blue color icon with a lock on it, what is this?**<br>
+- **Why can’t I create a job from my schedule page? (or “+” button missing)**<br>
 
-  The blue icon indicates that a user with “IMEI login check” enabled tried to log in to his account using another device.<br>
-  Admins can click on the blue button to clear IMEI* so that the user can log in using a new device. <br>
+  You may be blocked access to create jobs. Check with your admin.<br><br>
 
-  *Admins can also perform this action through the notification email received using the verified email address.<br><br>
+- **(Admin) How to give access to users to create jobs, projects, customers or digital forms?**<br>
 
-  <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/Unable%20Check%20In.jpg" alt="Check In Error">
-  </p>
+  Go to the desktop site navigation bar > User Management > User Account Customisation Table. Click on the pen icon beside the relevant user > select Access settings on the sidebar. Edit Creation Control for Customer/Project/Job/DF to “Allow Access,” then click “Save Access Settings.”<br>
 
 </aside>
