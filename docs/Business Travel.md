@@ -1,48 +1,45 @@
 
-## 🔑 Adding Users
+## 🔑 Business Travel
 <aside>
 (If yes to each, move on to the next scenario)
     
 <br> <!-- Adding one line space -->
 
-- **How do I add users?**<br>
+- **How to check in/check out to a site?**<br>
 
-  1. At the desktop site's navigation bar, go to User Management > Invite User.<br>
-  2. Fill out the details of your new team member and click Invite.<br>
-  3. Your team member will receive a verification email. Once the account is verified, he will receive a new password for his account.<br>
-  4. Ask your team member to download the Sales Connection app, and log in using his registered email and new password.<br><br>
+  1. Click on the job you want to check in/check out to.<br>
+  2. In the Job Details page, click the “+” at the bottom right.<br>
+  3. Select “Check-in/ Check-out.”<br>
+  4. Click on the green “Check-in / Check-out" button.<br>
 
+  *If auto-checkout is enabled in your company settings, you will be automatically checked out from the job once you check in to another job.<br><br>
   
-- **What is the limit for me to add users?**<br>
+- **Can I check in without WiFi/ mobile data?**<br>
 
-  The total number of user accounts available depends on your subscription plan.<br>
-  To check the remaining number of user accounts and desktop access available, go to the desktop site’s navigation bar > User Management > User List. It is stated at the top of this page under “Reminder.”<br><br>
+  Yes. Your check-in will be updated once you are online.<br><br>
 
+- **How to review my travel history?**<br>
 
-- **Why I cannot add a user?**<br>
+  **Mobile app:**<br>
+  1. At the dashboard, click on “Business Travel”.<br>
+  2. Filter the date(s) you want to review.<br>
+  3. You will see your travel history with all check-ins and check-outs.<br>
 
-  You might have reached the maximum limit of user accounts that can be created.<br>
-  To check the remaining number of user accounts available, go to the desktop site’s navigation bar > User Management > User List. It is stated at the top of this page under “Reminder.”<br>
+  **Desktop site:**<br>
+  1. Go to the main navigation bar > Business Map > Business Travel.<br>
+  2. Select the user (yourself) and the date you want to review. (To review history for a date range, click on the top right green button “Table View,” and fill in the date range.)<br>
+  3. You will see your history of all check-ins, check-outs, travel distance, etc.<br><br>
 
-  <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/Unable%20Check%20In.jpg" alt="Check In Error">
-  </p>
+- **(Admin) How to restrict staff’s check-in location to the address stated?**<br>
+
+  Check-in location will always be restricted with geofencing when a customer’s address is verified*. The maximum allowed check-in distance can be set @ Company Settings > Staff Settings > Check-in Distance Settings.<br>
   
-  If you want to add more users, contact us to upgrade your subscription plan.<br><br>
+  *Staff can still check in anywhere if the address is not verified or no address is selected for a job. (Note: all addresses imported from Excel initially are not verified.)<br><br>
 
-- **What are the required fields for me to add users to the system?**<br>
+- **How to verify the addresses of customers?**<br>
 
-  Name, telephone, email, staff category, account type and color (pick one to represent the user in the system).<br><br>
-  *Email is optional if the user only uses mobile device.<br><br>
-
-- **I have added the user to the system, what is the next step?**<br>
-
-  Ask the user to:<br>
-  1. Verify his account through a verification email sent from admin@salesconnection.my. He will receive another email with a password after verification.<br>
-  2. Download the Sales Connection app from Google Playstore or App Store.<br>
-  3. Log in using the registered phone number, or email address with a password.<br><br>
-
-&emsp;&emsp; *Only email addresses that are verified will be sent.<br>
-
+  On the customer’s details page or job edit page, go to the address field and click on the Red exclamation mark “!”  beside the address to verify it.<br>
+  
+  We recommend verifying the address of the customer on the first job you create under the customer.<br><br>
 
 </aside>
