@@ -30,12 +30,12 @@
 <br>
 
 ## Is the password case sensitive?
-Yes, the password is case sensitive.
+Yes. The password is case sensitive.
 
 <br>  
 
 ## Is there any expiry on the password?
-No, there is no expiry.
+No. There is no expiry.
 
 <br>
 
