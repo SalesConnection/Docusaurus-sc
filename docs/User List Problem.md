@@ -5,35 +5,27 @@
     
 <br> <!-- Adding one line space -->
 
-- **I did not receive notifications from Sales Connection.**<br>
+- **What can I do with the user list?**<br>
 
-  Please allow the notifications prompt when you login to Sales Connection.<br><br>
+  You can check the list of all present users in your system, edit users’ details (e.g. staff category, account type), deactivate user, and delete user.<br><br>
   
-- **I have allowed the notifications from Sales Connection but I still did not receive any notifications.**<br>
+- **What is the green tick button inside the user list?**<br>
 
-  Google Chrome:<br>
-  1. Click the "Lock" button at the URL bar.<br>
-  2. At the notifications option, select "Allow".<br>
+  The green tick button indicates that a user account is currently activated. Once you click on the button, the user will be deactivated (i.e. he can no longer log in to his account).<br>
 
-  If cannot find any Notification option:<br>
-  1. CLick the "Lock" button at the URL bar.<br>
-  2. Click "Site Settings".<br>
-  3. Find "Notifications" and select "Allow".<br><br>
+  When a user is deactivated, the tick button will turn red, indicating that the user is currently deactivated.<br><br>
 
-- **I have allowed the notifications from Sales Connection and Chrome but still not receiving desktop notifications.**<br>
+- **I saw some users with a red exclamation icon, what does it do?**<br>
 
-  Windows 10:<br>
-  Option 1:<br>
-  1. Tap the message icon on the bottom right corner of the Windows Toolbar.
-  2. Right click and enable "Turn On Notifications".
-  3. You should be able to receive notifications.<br>
+  The red exclamation icon indicates that a user’s email address is not verified yet. Click on the red icon to send a verification email to the user.<br><br>
+  
+- **Some users have a blue color icon with a lock on it, what is this?**<br>
 
-  Option 2:<br>
-  1. Right click on the Windows icon (or Control + X).
-  2. Select "Settings".
-  3. Select System > Notifications & actions.
-  4. Under the "Get notifications apps from other sender", toggle ON.
-  5. You should be able to receive notifications.<br>
+  The blue icon indicates that a user with “IMEI login check” enabled tried to log in to his account using another device.<br>
+  Admins can click on the blue button to clear IMEI* so that the user can log in using a new device. <br>
+
+  *Admins can also perform this action through the notification email received using the verified email address.<br><br>
+
   
 
 </aside>
