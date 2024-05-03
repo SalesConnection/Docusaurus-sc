@@ -4,41 +4,26 @@
     
 <br> <!-- Adding one line space -->
 
-- **How to check in/check out to a site?**<br>
+- **Does the app track my location all the time?**<br>
 
-  1. Click on the job you want to check in/check out to.<br>
-  2. In the Job Details page, click the “+” at the bottom right.<br>
-  3. Select “Check-in/ Check-out.”<br>
-  4. Click on the green “Check-in / Check-out" button.<br>
+  **No.** Your location will only be shared and recorded when you check in and check out.<br>
+  You can also choose to turn off your phone GPS by going to the Quick Settings Panel (swipe down from the top of your screen), and switch the location icon off.<br>
 
-  *If auto-checkout is enabled in your company settings, you will be automatically checked out from the job once you check in to another job.<br><br>
+  *Note: In order to check-in or check-out your location must be switched on.<br><br>
   
-- **Can I check in without WiFi/ mobile data?**<br>
+- **Can I check in and check out if my location is turned off?**<br>
 
-  Yes. Your check-in will be updated once you are online.<br><br>
+  **No.** Your device’s location must be turned on in order for you to check in and check out.<br><br>
 
-- **How to review my travel history?**<br>
+- **Can my co-workers view my current location?**<br>
 
-  **Mobile app:**<br>
-  1. At the dashboard, click on “Business Travel”.<br>
-  2. Filter the date(s) you want to review.<br>
-  3. You will see your travel history with all check-ins and check-outs.<br>
+  Only admins and subadmins under your staff category can view your location based on your most recent check-in or check-out.<br>
+  Staff account users cannot view their subordinates’ location.<br><br>
 
-  **Desktop site:**<br>
-  1. Go to the main navigation bar > Business Map > Business Travel.<br>
-  2. Select the user (yourself) and the date you want to review. (To review history for a date range, click on the top right green button “Table View,” and fill in the date range.)<br>
-  3. You will see your history of all check-ins, check-outs, travel distance, etc.<br><br>
+- **(Admin) How to check all staff’s current location?**<br>
 
-- **(Admin) How to restrict staff’s check-in location to the address stated?**<br>
+  Go to the desktop site navigation bar > Business Travel > Overview. You can check your staff’s location based on their most recent check-in or check-out.<br>
 
-  Check-in location will always be restricted with geofencing when a customer’s address is verified*. The maximum allowed check-in distance can be set @ Company Settings > Staff Settings > Check-in Distance Settings.<br>
-  
-  *Staff can still check in anywhere if the address is not verified or no address is selected for a job. (Note: all addresses imported from Excel initially are not verified.)<br><br>
-
-- **How to verify the addresses of customers?**<br>
-
-  On the customer’s details page or job edit page, go to the address field and click on the Red exclamation mark “!”  beside the address to verify it.<br>
-  
-  We recommend verifying the address of the customer on the first job you create under the customer.<br><br>
+  *Note: Staff’s present location cannot be tracked as their location is only recorded when they check in and check out.<br><br>
 
 </aside>
