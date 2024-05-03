@@ -5,6 +5,16 @@
     
 <br> <!-- Adding one line space -->
 
+### Difference between Delete and Deactivate
+
+|                Delete               |              Deactivate                |
+|-------------------------------------|----------------------------------------|
+| User will be removed from all the items he was assigned to/created. | User's name will still under the items he was assigned to/created. |
+| User's jobs cannot be traced in the schedule and metrics overview pages. | User's jobs can still traced in the schedule and metrics overview pages. |
+| All the data will be removed from the system except updates, comments and check-ins/outs. | All the data will remain in the system. |
+
+<br><br>
+
 - **What will happen if I delete a user from the system?**<br>
 
   1. The user will not be able to log into (access) the system.<br>
