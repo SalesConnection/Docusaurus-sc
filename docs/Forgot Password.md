@@ -26,7 +26,7 @@
  3. You will received a message from 62002 in your phone with an OTP inside.
 
  4. Log in with the OTP.
-    <br>
+    <br><br>
 
 - **Mobile App (Using Email)**:
 
@@ -42,20 +42,16 @@
 
  6. Enter your new password and click “Change Password”
 
- 7. Log in with the new password.
+ 7. Log in with the new password.<br><br>
 
 ## I tried to click forget password and entered my email/phone number, but I didn’t receive reset password email, how?
 <aside>
 
-<br> 
-
  1. Ensure that the email address you entered is registered and verified.
 
- 2. Check your email spam/junk mail folder for the reset password email.
+ 2. Check your email spam/junk mail folder for the reset password email.<br><br>
 
 ## I still don’t get email /OTP after waiting, how?
 <aside>
-
-<br> 
 
   1. Escalate this issue to your IT team / support to assist. It may be caused by an email bounce or mail server issue.
