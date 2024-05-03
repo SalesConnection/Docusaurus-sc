@@ -4,26 +4,26 @@
     
 <br> <!-- Adding one line space -->
 
-- **Does the app track my location all the time?**<br>
+- **(Staff) How to use Sales Connection app to apply for mileage claims?**<br>
 
-  **No.** Your location will only be shared and recorded when you check in and check out.<br>
-  You can also choose to turn off your phone GPS by going to the Quick Settings Panel (swipe down from the top of your screen), and switch the location icon off.<br>
+  When you travel from site A to site B, be sure to check in and check out from the respective locations so that the system will automatically record your distance traveled. Your mileage claims will be automatically calculated based on your company’s mileage settings, and your admin shall reimburse your mileage claims accordingly.<br>
 
-  *Note: In order to check-in or check-out your location must be switched on.<br><br>
+  *Note: For mileage claims, you do not have to calculate and apply for the claim amount manually.<br><br>
   
-- **Can I check in and check out if my location is turned off?**<br>
+- **(Admin) How to review and approve mileage claims of employees?**<br>
 
-  **No.** Your device’s location must be turned on in order for you to check in and check out.<br><br>
+  At the desktop site, go to the main navigation bar > Business Map > Claims Management.<br>
+  
+  1. Under the “Category” filter, select “Mileage” only and apply other filters of your choice.<br>
+  2. Click “Go”.<br>
+  3. To approve/reject/comment on a claim, make the necessary updates in the “STATUS” column. Click “Submit” at the bottom right corner.<br>
 
-- **Can my co-workers view my current location?**<br>
+  To check for the total reimbursement amount, refer to the last row under the “AMOUNT(RM)” column.<br><br>
 
-  Only admins and subadmins under your staff category can view your location based on your most recent check-in or check-out.<br>
-  Staff account users cannot view their subordinates’ location.<br><br>
+- **(Admin) How to change the company’s mileage settings (RM per km) for all mileage claims?**<br>
 
-- **(Admin) How to check all staff’s current location?**<br>
-
-  Go to the desktop site navigation bar > Business Travel > Overview. You can check your staff’s location based on their most recent check-in or check-out.<br>
-
-  *Note: Staff’s present location cannot be tracked as their location is only recorded when they check in and check out.<br><br>
+  1. Go to desktop site main navigation bar > Company Settings > Staff Settings > Mileage Settings.<br>
+  2. Do the necessary edits.<br>
+  3. Click “Submit”.<br>
 
 </aside>
