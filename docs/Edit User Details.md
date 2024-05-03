@@ -1,54 +1,40 @@
 
-## 🔑 Deleting & Deactivating Users
+## 🔑 Edit User Details
 <aside>
 (If yes to each, move on to the next scenario)
     
 <br> <!-- Adding one line space -->
 
-- **What will happen if I delete a user from the system?**<br>
+- **How do I edit User Details?**<br>
 
-  1. The user will not be able to log into (access) the system.<br>
-  2. The user will be removed from all the items he was assigned to/created. (Assigned to/ Creator column will remove deleted user)<br>
-  3. The users’ jobs cannot be traced in the schedule and metrics overview pages.<br>
-
-  &emsp; *Note: All updates, comments, and check-ins/outs of the deleted user will remain in the system.<br><br>
-
-- **How to delete a user?**<br>
-
-  Desktop site main navigation > User Management > User List > Select User > Delete button (Red icon with bin).<br><br>
-
-- **How to search for items that were assigned to/created by the deleted user?**<br>
-
-  1. Go to Business Reports or Analytics page.<br>
-  2. Under the “Created By” or “Assigned To” filters, select the relevant deleted user.<br>
-  3. Apply the filters and you will get a list of the items assigned to/created by the deleted user. (Note: their names will not show under the Assigned to/ Creator column.)<br><br>
-
-- **What if I want to keep all the data of the resigned user in the system?**<br>
-
-  Deactivate the user instead of deleting it.<br><br>
-
-- **What will happen if I deactivate a user?**<br>
-
-  1. The user will not be able to log into (access) the system.<br>
-  2. All his data will remain in the system (e.g. Assigned to/ Creator column, job schedule, metrics, etc.)<br><br>
-
-- **Will the deactivated user be counted as one user account (reducing the number of user accounts available)?**<br>
-
-  No.<br><br>
-
-- **How to deactivate a user?**<br>
-
-  Desktop site Main Navigation > User Management > User List > Select User > Deactivate button (Green icon)<br>
-
-  *Only Main Admin and Super Admin can deactivate accounts.<br><br>
-
-- **What is the difference between deleting and deactivating a user?**<br>
-
-  Deleting a user will remove him from all the items he was assigned to/ created; while deactivating a user will not remove him from any items.<br>
-
-  Similar results of deleting & deactivating:<br>
+  Only Admins or users with full HR management access can edit user details.<br>
   
-  1. The user cannot access the system.<br>
-  2. All updates, comments, check-ins/outs of the user will remain in the system.<br><br>
+  1. Go to the desktop site’s navigation bar > User Management > User List.<br>
+  2. Click the Blue button with a pencil beside the user you want to edit.<br>
+  3. Do the necessary edits, and click “Submit.”<br><br>
+
+- **(admin) My staff changed to a new phone number/email, what should I do**<br>
+
+  1. Go to the desktop site’s navigation bar > User Management > User List.<br>
+  2. Click on the Blue button with a pencil beside the staff who changed phone number/email.<br>
+  3. Edit the staff’s phone number/email address to the new ones, and click “Submit”.<br>
+  4. Ask the staff to verify his new email address.<br>
+  5. The staff can log in to his account using his new phone number/email on the next login.<br><br>
+
+- **I'm a staff, can I change the display name myself?**<br>
+
+  No, only admins can change the display names of users.<br><br>
+
+- **I'm a staff, I change to a new phone number/email, can I change myself? Or can you update for me?**<br>
+
+  No, staff account users cannot edit user details, including phone number and email. Please contact your admin to update the necessary details for you.<br><br>
+
+- **How to move a user to another department/team?**<br>
+
+  1. Go to the desktop site’s navigation bar > User Management > User List.<br>
+  2. Click the Blue button with a pencil beside the user you want to edit.<br>
+  3. Under the Staff Category field, select the new department/team of the user.<br>
+  4. Click “Submit”.<br>
+
 
 </aside>
