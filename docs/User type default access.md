@@ -9,6 +9,9 @@ There are 5 user types: Main Admin, Admin, Sub Admin, Staff, and Associate User
 <br>
 
 ## User Type Default Access
+<b>Basic:
  <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/Unable%20to%20open%20whatsapp%20link.jpg" alt="Unable to open WhatsApp Link" width="200" height="auto">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/User%20type%20default%20access.png" width="840" height="300">
   </p>
+
+<b>Advance:
