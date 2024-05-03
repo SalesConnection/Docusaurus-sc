@@ -2,8 +2,6 @@
 ## 🔑 Mileage Claims
 <aside>
     
-<br> <!-- Adding one line space -->
-
 - **(Staff) How to use Sales Connection app to apply for mileage claims?**<br>
 
   When you travel from site A to site B, be sure to check in and check out from the respective locations so that the system will automatically record your distance traveled. Your mileage claims will be automatically calculated based on your company’s mileage settings, and your admin shall reimburse your mileage claims accordingly.<br>
