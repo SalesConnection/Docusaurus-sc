@@ -26,6 +26,8 @@
 
   *Admins can also perform this action through the notification email received using the verified email address.<br><br>
 
-  
+  <p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/Unable%20Check%20In.jpg" alt="Check In Error">
+  </p>
 
 </aside>
