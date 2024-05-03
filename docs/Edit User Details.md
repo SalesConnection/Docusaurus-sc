@@ -23,11 +23,11 @@
 
 - **I'm a staff, can I change the display name myself?**<br>
 
-  No, only admins can change the display names of users.<br><br>
+  No. Only admins can change the display names of users.<br><br>
 
 - **I'm a staff, I change to a new phone number/email, can I change myself? Or can you update for me?**<br>
 
-  No, staff account users cannot edit user details, including phone number and email. Please contact your admin to update the necessary details for you.<br><br>
+  No. Staff account users cannot edit user details, including phone number and email. Please contact your admin to update the necessary details for you.<br><br>
 
 - **How to move a user to another department/team?**<br>
 
