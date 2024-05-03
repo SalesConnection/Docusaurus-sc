@@ -2,8 +2,6 @@
 ## 🔑 Other Claims
 <aside>
     
-<br> <!-- Adding one line space -->
-
 - **(Staff) How to apply for claims manually?**<br>
 
   **Mobile app:**<br>
