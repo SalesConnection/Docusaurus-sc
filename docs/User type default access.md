@@ -11,10 +11,15 @@ There are 5 user types: Main Admin, Admin, Sub Admin, Staff, and Associate User
 ## User Type Default Access
 <b>Basic:
  <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/User%20type%20default%20access.png" width="840" height="300">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/Basic%20User%20type%20default%20access.png" width="840" height="300">
   </p>
 
 <b>Advance:
  <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/Advanced%20User%20Type%20default%20access.png" width="840" height="300">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/Advanced%20User%20Type%20default%20access.png" width="1000" height="550">
   </p>
+
+\* Depends on system setting <br>
+** Only within department <br>
+*** Only view the data they created themselves or assign to them <br>
+( ) Optional
