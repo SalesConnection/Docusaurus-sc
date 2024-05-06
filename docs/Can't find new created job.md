@@ -6,6 +6,7 @@
 <br> <!-- Adding one line space -->
 
 - **How to use filter to find newly created job?**<br><br>
+
 **Desktop site:**<br>
 
 1. At the Business Management page, select Job Schedule.<br>
@@ -17,10 +18,14 @@
   2. Select the filter icon in top right of the page.<br>
 
 <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/Basic%20User%20type%20default%20access.png" width="840" height="300">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/App%20Job%20filter%20with%20arrow.png">
   </p>
 
   3. You can either filter the job by date, job category, or job status.<br>
+
+<p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/App%20Job%20filter%20ori%202.jpg" width="300" height="700">
+  </p>
    
 *OR* <br>
 
