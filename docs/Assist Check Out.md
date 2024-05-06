@@ -17,7 +17,7 @@
      **Here is the link:** https://salesconnection.my/manageuac<br>
 
      <p align="center">
-       <img src="https://github.com/SalesConnection/support-docs/blob/610484e57addef37c2bf955c40d9d80c662cfa6e/static/img/Original/Reminder%20of%20User%20List.png" alt="Reminder in User List">
+       <img src="https://github.com/SalesConnection/support-docs/blob/610484e57addef37c2bf955c40d9d80c662cfa6e/static/img/Original/Reminder%20of%20User%20List.png" alt="User Account Customisation">
      </p>
 
      *Note: Only the admin is able to perform this action.<br>
@@ -25,7 +25,7 @@
   2. Use Ctrl + f to search "Enable Assisted Checkout".<br>
   
      <p align="center">
-       <img src="https://github.com/SalesConnection/support-docs/blob/610484e57addef37c2bf955c40d9d80c662cfa6e/static/img/Original/Reminder%20of%20User%20List.png" alt="Reminder in User List">
+       <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Enable%20Assisted%20Checkout%20in%20UAC.png" alt="Enable Assisted Checkout in UAC">
      </p>
      
   3. Click on "Disabled" on the user who needs this power (normally admin) to perform the action to other staff.<br>
