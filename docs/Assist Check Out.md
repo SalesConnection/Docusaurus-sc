@@ -31,14 +31,14 @@
   3. Click on "Disabled" on the user who needs this power (normally admin) and click the "Enable Assisted Checkout" to perform the action to other staff.<br>
 
      <p align="center">
-       <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Click%20Enable%20for%20Assisted%20Checkout.png" alt="Reminder in User List">
+       <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Click%20Enable%20for%20Assisted%20Checkout.png" alt="Click the Enable Assisted Checkout">
      </p>
   
      *Note: Whoever with the "Enabled" for the Enable Assisted Checkout, they will have the power to perform the assist check out for every user.<br>
   4. Click Save Control Settings to save the changes.<br>
 
      <p align="center">
-        <img src="https://github.com/SalesConnection/support-docs/blob/610484e57addef37c2bf955c40d9d80c662cfa6e/static/img/Original/Reminder%20of%20User%20List.png" alt="Reminder in User List">
+        <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Save%20Control%20Settings.png" alt="Save Control Settings">
      </p>
   <br>
   
