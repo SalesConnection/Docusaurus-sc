@@ -1,16 +1,13 @@
 
 ## 🔑 How to use filter function?
 <aside>
-(If yes to each, move on to the next scenario)
-    
-<br> <!-- Adding one line space -->
 
 - **How to use filter to find newly created job?**<br><br>
 
 **Desktop site:**<br>
 
-1. At the Business Management page, select Job Schedule.<br>
-   **Filter job here:** https://salesconnection.my/activity/scheduler
+1. To filter, go to Business Management > Job Schedule.<br>
+   **Filter Job Here:** https://salesconnection.my/activity/scheduler
 2. Click the calender icon in the top right, can change the month that you want to view, you will able to view the newly created job.<br>
 
 <p align="center">
@@ -46,7 +43,8 @@ By using this method, you can choose the job status such as Not Started, In prog
 
 - **How to use job update report filter?**<br>
 
-1. In the Business Report page, select "Job Update Report".
+1. To use job update report filter, go to Business Report > Job Update Report.<br>
+   **Here is the link:** https://salesconnection.my/reports/activity-update
 2. Click the "Filter Table Record", and it will shows the filter below.
 
 <p align="center">
@@ -80,6 +78,61 @@ By using this method, you can choose the job status such as Not Started, In prog
 </aside>
 
 ## 🔑 How to use favourite filter?
+<aside>
 
+<br> <!-- Adding one line space -->
+**Desktop site:**<br>
 
-                        
+1. For example, if you want to add "Favourite Filters" in "Project Update Report". You need to click the "Default Columns"
+
+ <p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Favourite%20Filter%20step%201.png">
+  </p><br>
+
+2. Click the "Create" button to create a new custom table column display.
+
+ <p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Favourite%20Filter%20step%202.png">
+  </p><br>
+
+3. You can select the column based on your own preference.
+   
+ <p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Favourite%20Filter%20step%203.png">
+  </p><br>
+
+4. Click "Save" to save the custom column display that you want.
+   
+ <p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Favourite%20Filter%20step%204.png">
+  </p><br>
+
+5. This is the result.
+
+<p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Favourite%20Filter%20result%204.5.png">
+  </p><br>
+
+6. Select the "Favourite Filter", and it will show "Apply Favourite Filter". Click the "+Add" button.
+
+<p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Favourite%20Filter%20step%205.png">
+  </p><br>
+
+7. Enter the name for this customize favourite filter, and click "Save".
+
+<p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Favourite%20Filter%20step%206.png">
+  </p><br>
+
+8. Default filter will show everytime when you this page. If you wish to apply your favourite filter, you will need to click the "Favourite Filter", and select the customize favourite filter you want.
+
+<p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Favourite%20Filter%20step%207.png">
+  </p><br>
+
+9. This is the output based on the filter you apply.
+
+<p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Favourite%20Filter%20result%207.5.png">
+  </p><br>
