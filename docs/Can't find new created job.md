@@ -14,7 +14,7 @@
 2. Click the calender icon in the top right, can change the month that you want to view, you will able to view the newly created job.<br>
 
 <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/App%20Job%20filter%20with%20arrow.png">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20filter%20(month)%20.png">
   </p>
 
 **Mobile App:**<br>
