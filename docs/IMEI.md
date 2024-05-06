@@ -31,7 +31,7 @@
   2. The blue icon indicates that a user with “IMEI login check” enabled tried to log in to his account using another device. Admins can click on the blue button to clear IMEI so that the user can log in using a new device.<br>
 
      <p align="center">
-       <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/IMEI%20icon.png" alt="IMEI Icon">
+       <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/IMEI%20icon.png" alt="IMEI Icon" width="350" height="150">
      </p>
 
 </aside>
