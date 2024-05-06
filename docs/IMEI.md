@@ -23,7 +23,7 @@
      Here is the link: https://salesconnection.my/usermanage/userlist<br>
 
      <p align="center">
-       <img src="https://github.com/SalesConnection/support-docs/blob/610484e57addef37c2bf955c40d9d80c662cfa6e/static/img/Original/Reminder%20of%20User%20List.png" alt="Reminder in User List">
+       <img src="https://github.com/SalesConnection/support-docs/blob/610484e57addef37c2bf955c40d9d80c662cfa6e/static/img/Original/Reminder%20of%20User%20List.png" alt="User List">
      </p>
   
      *Note: Admins can also perform this action through the notification email received using the verified email address.<br><br>
@@ -31,7 +31,7 @@
   2. The blue icon indicates that a user with “IMEI login check” enabled tried to log in to his account using another device. Admins can click on the blue button to clear IMEI so that the user can log in using a new device.<br>
 
      <p align="center">
-       <img src="https://github.com/SalesConnection/support-docs/blob/610484e57addef37c2bf955c40d9d80c662cfa6e/static/img/Original/Reminder%20of%20User%20List.png" alt="Reminder in User List">
+       <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/IMEI%20icon.png" alt="IMEI Icon">
      </p>
 
 </aside>
