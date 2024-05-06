@@ -16,7 +16,7 @@
   To check the remaining number of user accounts and desktop access available, go to the desktop site’s navigation bar > User Management > User List. It is stated at the top of this page under “Reminder.”<br>
 
   <p align="center">
-    <img src="static/img/Original/Reminder of User List.png" alt="Reminder in User List">
+    <img src="https://github.com/SalesConnection/support-docs/blob/610484e57addef37c2bf955c40d9d80c662cfa6e/static/img/Original/Reminder%20of%20User%20List.png" alt="Reminder in User List">
   </p>
 
   **Here is the link:** https://salesconnection.my/usermanage/userlist<br><br>
