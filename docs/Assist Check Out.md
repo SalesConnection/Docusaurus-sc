@@ -22,7 +22,7 @@
 
      *Note: Only the admin is able to perform this action.<br>
   
-  2. Use Ctrl + f to search "Enabled Assisted Checkout".<br>
+  2. Use Ctrl + f to search "Enable Assisted Checkout".<br>
   
      <p align="center">
        <img src="https://github.com/SalesConnection/support-docs/blob/610484e57addef37c2bf955c40d9d80c662cfa6e/static/img/Original/Reminder%20of%20User%20List.png" alt="Reminder in User List">
@@ -34,7 +34,7 @@
        <img src="https://github.com/SalesConnection/support-docs/blob/610484e57addef37c2bf955c40d9d80c662cfa6e/static/img/Original/Reminder%20of%20User%20List.png" alt="Reminder in User List">
      </p>
   
-     *Note: Whoever with the "Enabled" for the Enabled Assisted Checkout, they will have the power to perform the assist check out for every user.<br>
+     *Note: Whoever with the "Enabled" for the Enable Assisted Checkout, they will have the power to perform the assist check out for every user.<br>
   4. Click Save Control Settings to save the changes.<br>
 
      <p align="center">
