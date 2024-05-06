@@ -37,11 +37,17 @@
 2. Select Job Status.
 3. Select the filter value you want to show.<br>
 
-By using this method, you can choose the job status such as Not Started, In progress, or Completed.<br>
+By using this method, you can choose the job status such as Not Started, In progress, or Completed.<br><br><br>
 
 - **How to filter by user/department?**<br>
 
 1. At the same page, under the search bar, there is 3 default filter, which is User Department, Access Type, and Filter by User.
-2. Select the default filter you want and the job schedule.
+2. Select the default filter you want and the job schedule.<br><br>
+
+- **How to use job update report filter?**<br>
+
+1. In the Business Report page, select "Job Update Report".
+2. 
+
 
                        
