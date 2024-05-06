@@ -8,7 +8,7 @@
   2. Fill out the details of your new team member and click Submit Form.<br>
 
   <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/Reminder%20of%20User%20List.png" alt="Reminder in User List">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/Add%20New%20User.png" alt="Reminder in User List" width="650" height="550">
   </p>
   
   3. Your team member will receive a verification email. Once the account is verified, he will receive a new password for his account.<br>
