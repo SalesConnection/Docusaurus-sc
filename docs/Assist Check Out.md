@@ -57,6 +57,7 @@
      <p align="center">
         <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Assisted%20Check%20Out%20button%20-%20Desktop.png" alt="Assisted Check Out Button - Desktop">
      </p>
+  <br>
 
   **Mobile Version**<br>
   1. Make sure that "Assisted Checkout" is enabled.<br>
