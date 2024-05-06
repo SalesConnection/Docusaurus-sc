@@ -16,24 +16,31 @@
 - **I have added the user to the system, what is the next step?**<br>
 
   Ask the user to:<br>
-  1. Verify his account through a verification email sent from admin@salesconnection.my. He will receive another email with a password after verification.<br>
+  1. Verify his account through a verification email sent from admin@salesconnection.my.<br>
 
   <p align="center">
     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/Email%20New%20User%20Received.png" alt="Verification Email">
   </p>
-  
-  2. Download the Sales Connection app from Google Playstore or App Store.<br>
+
+  2. He will receive another email with a password after verification.<br>
+
+  <p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/Download%20app.png" alt="Playstore">
+  </p>
+
+  3. Download the Sales Connection app from Google Playstore or App Store.<br>
 
   <p align="center">
     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/Download%20app.png" alt="Playstore">
   </p>
   
-  3. Login using the registered phone number or email address with a password.<br>
+  4. Login using the registered phone number or email address with a password.<br>
+     **Login Here:** https://salesconnection.my/login<br>
 
   <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/Download%20app.png" alt="Login">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/Login%20Page.png" alt="Login">
   </p>
-
+  
 &emsp;&emsp; *Note: Only email addresses that are verified will be sent.<br><br>
 
 - **What is the limit for me to add users?**<br>
