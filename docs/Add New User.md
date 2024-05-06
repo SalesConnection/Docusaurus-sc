@@ -19,11 +19,20 @@
   1. Verify his account through a verification email sent from admin@salesconnection.my. He will receive another email with a password after verification.<br>
 
   <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/Email%20New%20User%20Received.png" alt="Reminder in User List">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/Email%20New%20User%20Received.png" alt="Verification Email">
   </p>
   
   2. Download the Sales Connection app from Google Playstore or App Store.<br>
-  3. Login using the registered phone number or email address with a password.<br><br>
+
+  <p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/Download%20app.png" alt="Playstore">
+  </p>
+  
+  3. Login using the registered phone number or email address with a password.<br>
+
+  <p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/Download%20app.png" alt="Login">
+  </p>
 
 &emsp;&emsp; *Note: Only email addresses that are verified will be sent.<br><br>
 
