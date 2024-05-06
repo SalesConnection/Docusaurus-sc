@@ -6,7 +6,7 @@
 
   1. At the desktop site's navigation bar, go to User Management > Invite User.<br>
      **Here is the link:** https://salesconnection.my/usermanage/adduser<br>
-  3. Fill out the details of your new team member and click Submit Form.<br>
+  2. Fill out the details of your new team member and click Submit Form.<br>
 
   <p align="center">
     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/Add%20New%20User.png" alt="Reminder in User List" width="650" height="550">
@@ -17,6 +17,11 @@
 
   Ask the user to:<br>
   1. Verify his account through a verification email sent from admin@salesconnection.my. He will receive another email with a password after verification.<br>
+
+  <p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/Email%20New%20User%20Received.png" alt="Reminder in User List">
+  </p>
+  
   2. Download the Sales Connection app from Google Playstore or App Store.<br>
   3. Login using the registered phone number or email address with a password.<br><br>
 
