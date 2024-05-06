@@ -65,9 +65,12 @@ By using this method, you can choose the job status such as Not Started, In prog
     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Update%20Report%20edited%20step%203.png">
   </p><br>
 
-5. For example, select "Contains" if you want to show which filter value.
+5. For example, select "Not Contains" if you want to show which filter value. After that, it will shows the filter value as shown below.
 
-6. 
+ <p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Update%20Report%20edited%20Step%204.png">
+  </p><br>
+
 
  
                         
