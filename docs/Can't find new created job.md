@@ -12,6 +12,11 @@
    **Filter job here:** https://salesconnection.my/activity/scheduler
 2. Click the calender icon in the top right, can change the month that you want to view, you will able to view the newly created job.<br>
 
+<emsp> **Mobile App:**<br>
+1. At the Sales Connection mobile app, select "Schedule" page in the bottom center.
+2. Select the filter icon in top right of the page.
+3. You can either filter the job by date, job category, or job status.<br>
+   
 *OR* <br>
 
 1. Use the search bar at the top center.
@@ -25,9 +30,4 @@ By using this method, you can choose the job status such as Not Started, In prog
 1. At the same page, under the search bar, there is 3 default filter, which is User Department, Access Type, and Filter by User.
 2. Select the default filter you want and the job schedule.
 
-    **Mobile App:**<br>
-1. At the Sales Connection mobile app, select "Schedule" page in the bottom center.
-2. Select the filter icon in top right of the page.
-3. You can either filter the job by date, job category, or job status.
-   
                        
