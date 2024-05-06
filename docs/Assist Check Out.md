@@ -65,13 +65,13 @@
   2. To assist check out, go to Dashboard > Business Map.<br>
 
      <p align="center">
-        <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Business%20Map%20-%20Mobile.png" alt="Business Map - Mobile">
+        <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Business%20Map%20-%20Mobile.png" alt="Business Map - Mobile" width="280" height="550">
      </p>
      
   3. Go to the specific user and click on the **Assisted Check-out** button.<br>
 
      <p align="center">
-        <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Assisted%20Check%20Out%20Button%20-%20Mobile.png" alt="Assisted Check Out Button - Desktop">
+        <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Assisted%20Check%20Out%20Button%20-%20Mobile.png" alt="Assisted Check Out Button - Desktop" width="280" height="550">
      </p>
 
 </aside>
