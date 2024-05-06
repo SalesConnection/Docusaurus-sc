@@ -4,7 +4,7 @@
     
 - **What is assisted check out?**<br>
 
-  1. At t<br><br>
+  Assisted check out is<br><br>
 
 - **Scenarios below will need assisted check out:**<br>
 
