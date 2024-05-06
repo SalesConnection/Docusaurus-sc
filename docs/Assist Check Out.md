@@ -49,7 +49,7 @@
      **Here is the link:** https://salesconnection.my/BusinessMap<br>
 
      <p align="center">
-        <img src="https://github.com/SalesConnection/support-docs/blob/610484e57addef37c2bf955c40d9d80c662cfa6e/static/img/Original/Reminder%20of%20User%20List.png" alt="Reminder in User List">
+        <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/Business%20Map%20-%20Overview.png" alt="Business Map - Overview">
      </p>
      
   3. Go to the specific user and click on the "Assisted Check-out" button.<br>
