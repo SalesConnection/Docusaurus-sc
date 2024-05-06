@@ -1,5 +1,5 @@
 
-## 🔑 Can't find newly created job for new customer
+## 🔑 How to use filter function?
 <aside>
 (If yes to each, move on to the next scenario)
     
@@ -17,4 +17,9 @@
 2. Select Job Status.
 3. Select the filter value you want to show.<br>
 
-By using this method, you can choose the job status such as Not Started, In progress, or Completed.
+By using this method, you can choose the job status such as Not Started, In progress, or Completed.<br>
+
+- **How to filter by user/department.?**<br>
+
+1. At the same page, under the search bar, there is 3 default filter, which is User Department, Access Type, and Filter by User
+2. 
