@@ -71,6 +71,12 @@ By using this method, you can choose the job status such as Not Started, In prog
     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Update%20Report%20edited%20Step%204.png">
   </p><br>
 
+6. For example, select "In Progress" in the filter value. It will show as below. "Not Contains" means that these job searched by filter are not being updated.
+
+ <p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Update%20Report%20edited%20Step%205.png">
+  </p><br>
+
 
  
                         
