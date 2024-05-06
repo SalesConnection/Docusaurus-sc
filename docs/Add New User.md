@@ -19,7 +19,7 @@
     <img src="https://github.com/SalesConnection/support-docs/blob/610484e57addef37c2bf955c40d9d80c662cfa6e/static/img/Original/Reminder%20of%20User%20List.png" alt="Reminder in User List">
   </p>
 
-  **Here is the link:** https://salesconnection.my/usermanage/userlist<br><br>
+  **Add New User Here:** https://salesconnection.my/usermanage/userlist<br><br>
 
 - **Why I cannot add a user?**<br>
 
