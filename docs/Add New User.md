@@ -1,10 +1,7 @@
 
 ## 🔑 Adding Users
 <aside>
-(If yes to each, move on to the next scenario)
     
-<br> <!-- Adding one line space -->
-
 - **How do I add users?**<br>
 
   1. At the desktop site's navigation bar, go to User Management > Invite User.<br>
@@ -16,17 +13,20 @@
 - **What is the limit for me to add users?**<br>
 
   The total number of user accounts available depends on your subscription plan.<br>
-  To check the remaining number of user accounts and desktop access available, go to the desktop site’s navigation bar > User Management > User List. It is stated at the top of this page under “Reminder.”<br><br>
+  To check the remaining number of user accounts and desktop access available, go to the desktop site’s navigation bar > User Management > User List. It is stated at the top of this page under “Reminder.”<br>
 
+  <p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/Unable%20Check%20In.jpg" alt="Check In Error">
+  </p>
+
+  **Here is the link:** https://salesconnection.my/usermanage/userlist<br><br>
 
 - **Why I cannot add a user?**<br>
 
   You might have reached the maximum limit of user accounts that can be created.<br>
   To check the remaining number of user accounts available, go to the desktop site’s navigation bar > User Management > User List. It is stated at the top of this page under “Reminder.”<br>
 
-  <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/Unable%20Check%20In.jpg" alt="Check In Error">
-  </p>
+  **Here is the link:** https://salesconnection.my/usermanage/userlist<br>
   
   If you want to add more users, contact us to upgrade your subscription plan.<br><br>
 
