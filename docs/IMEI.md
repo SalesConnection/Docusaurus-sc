@@ -23,7 +23,7 @@
      Here is the link: https://salesconnection.my/usermanage/userlist<br>
 
      <p align="center">
-       <img src="https://github.com/SalesConnection/support-docs/blob/610484e57addef37c2bf955c40d9d80c662cfa6e/static/img/Original/Reminder%20of%20User%20List.png" alt="User List">
+       <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/User%20List.png" alt="User List">
      </p>
   
      *Note: Admins can also perform this action through the notification email received using the verified email address.<br><br>
