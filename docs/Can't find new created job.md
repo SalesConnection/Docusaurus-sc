@@ -51,7 +51,15 @@ By using this method, you can choose the job status such as Not Started, In prog
 
 <p align="center">
     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Update%20Report%20edited%20step%201.png">
-  </p>
+  </p><br>
 
+3. You can choose by what group that you want to show. For example, select "Job Update", and it will shows the Filter Variable below.<br>
 
+<p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Update%20Report%20edited%20step%202%20.png">
+  </p><br>
+
+4. For example, select "Update Status"
+
+ 
                        
