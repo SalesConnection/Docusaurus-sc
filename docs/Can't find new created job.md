@@ -12,10 +12,11 @@
    **Filter job here:** https://salesconnection.my/activity/scheduler
 2. Click the calender icon in the top right, can change the month that you want to view, you will able to view the newly created job.<br>
 
-<emsp> **Mobile App:**<br>
-1. At the Sales Connection mobile app, select "Schedule" page in the bottom center.
-2. Select the filter icon in top right of the page.
-3. You can either filter the job by date, job category, or job status.<br>
+**Mobile App:**<br>
+  1. At the Sales Connection mobile app, select "Schedule" page in the bottom center.
+  2. Select the filter icon in top right of the page.
+  
+  3. You can either filter the job by date, job category, or job status.<br>
    
 *OR* <br>
 
