@@ -20,21 +20,21 @@
        <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/User%20Account%20Customisation.png" alt="User Account Customisation">
      </p>
 
-     *Note: Only the admin is able to perform this action.<br>
+     *Note: Only the admin is able to perform this action.*<br>
   
-  2. Use **Ctrl + f** to search "Enable Assisted Checkout".<br>
+  2. Use Ctrl + f to search **Enable Assisted Checkout**.<br>
   
      <p align="center">
        <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Enable%20Assisted%20Checkout%20in%20UAC.png" alt="Enable Assisted Checkout in UAC">
      </p>
      
-  3. Click on "Disabled" on the user who needs this power (normally admin) and click the "Enable Assisted Checkout" to perform the action to other staff.<br>
+  3. Click on **Disabled** on the user who needs this power (normally admin) and click the **Enable Assisted Checkout** to perform the action to other staff.<br>
 
      <p align="center">
        <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Click%20Enable%20for%20Assisted%20Checkout.png" alt="Click the Enable Assisted Checkout">
      </p>
   
-     *Note: Whoever with the "Enabled" for the Enable Assisted Checkout, they will have the power to perform the assist check out for every user.<br>
+     *Note: Whoever with the **Enabled** for the Enable Assisted Checkout, they will have the power to perform the assist check out for every user.<br>
   4. Click **Save Control Settings** to save the changes.<br>
 
      <p align="center">
@@ -44,7 +44,7 @@
   
   **Assist Check Out**<br>
   **Desktop Version**<br>
-  1. Make sure that "Assisted Checkout" is enabled.<br>
+  1. Make sure that **Assisted Checkout** is enabled.<br>
   2. To assist check out, go to desktop site navigation bar > Business Map > Overview.<br>
      **Here is the link:** https://salesconnection.my/BusinessMap<br>
 
@@ -52,7 +52,7 @@
         <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/Business%20Map%20-%20Overview.png" alt="Business Map - Overview - Desktop">
      </p>
      
-  3. Go to the specific user and click on the "Assisted Check-out" button.<br>
+  3. Go to the specific user and click on the **Assisted Check-out** button.<br>
 
      <p align="center">
         <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Assisted%20Check%20Out%20button%20-%20Desktop.png" alt="Assisted Check Out Button - Desktop">
@@ -60,7 +60,7 @@
   <br>
 
   **Mobile Version**<br>
-  1. Make sure that "Assisted Checkout" is enabled.<br>
+  1. Make sure that **Assisted Checkout** is enabled.<br>
      *Note: This action can only be performed using desktop.<br>
   2. To assist check out, go to Dashboard > Business Map.<br>
 
@@ -68,7 +68,7 @@
         <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Business%20Map%20-%20Mobile.png" alt="Business Map - Mobile">
      </p>
      
-  3. Go to the specific user and click on the "Assisted Check-out" button.<br>
+  3. Go to the specific user and click on the **Assisted Check-out** button.<br>
 
      <p align="center">
         <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Assisted%20Check%20Out%20Button%20-%20Mobile.png" alt="Assisted Check Out Button - Desktop">
