@@ -1,5 +1,5 @@
 
-## 🔑 Add New User
+## 👩‍💼 Add New User
 <aside>
     
 - **How do I add users?**<br>
@@ -16,13 +16,13 @@
 - **I have added the user to the system, what is the next step?**<br>
 
   Ask the user to:<br>
-  1. Verify his account through a verification email sent from admin@salesconnection.my.<br>
+  1. Verify his account through a **verification email** sent from admin@salesconnection.my.<br>
 
   <p align="center">
     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/Email%20New%20User%20Received.png" alt="Verification Email" width="800" height="350">
   </p>
 
-  2. He will receive another email with a password after verification.<br>
+  2. He will receive another email with a **password** after verification.<br>
 
   <p align="center">
     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/Email%20with%20Password.png" alt="Email with Password" width="800" height="500">
@@ -34,7 +34,7 @@
     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/Download%20app.png" alt="Playstore" width="280" height="550">
   </p>
   
-  4. Login using the registered phone number or email address with a password.<br>
+  4. Login using the **registered** phone number or email address with a password.<br>
      **Login Here:** https://salesconnection.my/login<br>
 
   <p align="center">
@@ -45,7 +45,7 @@
 
 - **What is the limit for me to add users?**<br>
 
-  The total number of user accounts available depends on your subscription plan.<br>
+  The total number of user accounts available depends on your **subscription plan**.<br>
   To check the remaining number of user accounts and desktop access available, go to the desktop site’s navigation bar > User Management > User List. It is stated at the top of this page under “Reminder.”<br>
 
   <p align="center">
@@ -56,12 +56,12 @@
 
 - **Why I cannot add a user?**<br>
 
-  You might have reached the maximum limit of user accounts that can be created.<br>
+  You might have reached the **maximum limit** of user accounts that can be created.<br>
   To check the remaining number of user accounts available, go to the desktop site’s navigation bar > User Management > User List. It is stated at the top of this page under “Reminder.”<br>
 
   **Check Your User Limit Here:** https://salesconnection.my/usermanage/userlist<br>
   
-  If you want to add more users, contact us to upgrade your subscription plan.<br><br>
+  If you want to add more users, contact us to upgrade your subscription plan!<br><br>
 
 - **What are the required fields for me to add users to the system?**<br>
 
