@@ -1,5 +1,5 @@
 
-## 🔑 Adding Users
+## 🔑 Add New User
 <aside>
     
 - **How do I add users?**<br>
