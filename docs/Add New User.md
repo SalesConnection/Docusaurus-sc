@@ -4,15 +4,23 @@
     
 - **How do I add users?**<br>
 
-  1. At the desktop site's navigation bar, go to User Management > Invite User. **Here is the link:** https://salesconnection.my/usermanage/adduser<br>
-  2. Fill out the details of your new team member and click Submit Form.<br>
+  1. At the desktop site's navigation bar, go to User Management > Invite User.<br>
+     **Here is the link:** https://salesconnection.my/usermanage/adduser<br>
+  3. Fill out the details of your new team member and click Submit Form.<br>
 
   <p align="center">
     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/Add%20New%20User.png" alt="Reminder in User List" width="650" height="550">
   </p>
-  
-  3. Your team member will receive a verification email. Once the account is verified, he will receive a new password for his account.<br>
-  4. Ask your team member to download the Sales Connection app, and log in using his registered email and new password.<br><br>
+<br>
+
+- **I have added the user to the system, what is the next step?**<br>
+
+  Ask the user to:<br>
+  1. Verify his account through a verification email sent from admin@salesconnection.my. He will receive another email with a password after verification.<br>
+  2. Download the Sales Connection app from Google Playstore or App Store.<br>
+  3. Login using the registered phone number or email address with a password.<br><br>
+
+&emsp;&emsp; *Note: Only email addresses that are verified will be sent.<br><br>
 
 - **What is the limit for me to add users?**<br>
 
@@ -39,13 +47,5 @@
   Name, telephone, email, staff category, account type and color (pick one to represent the user in the system).<br><br>
   *Note: Email is optional if the user only uses mobile device.<br><br>
 
-- **I have added the user to the system, what is the next step?**<br>
-
-  Ask the user to:<br>
-  1. Verify his account through a verification email sent from admin@salesconnection.my. He will receive another email with a password after verification.<br>
-  2. Download the Sales Connection app from Google Playstore or App Store.<br>
-  3. Log in using the registered phone number, or email address with a password.<br><br>
-
-&emsp;&emsp; *Note: Only email addresses that are verified will be sent.<br>
 
 </aside>
