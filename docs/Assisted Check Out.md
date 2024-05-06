@@ -1,49 +1,30 @@
 
-
-## 🔑 Add New User
+## 🔑 Assisted Check Out
 <aside>
     
-- **How do I add users?**<br>
+- **What is assisted check out?**<br>
 
-  1. At the desktop site's navigation bar, go to User Management > Invite User.<br>
-  2. Fill out the details of your new team member and click Invite.<br>
-  3. Your team member will receive a verification email. Once the account is verified, he will receive a new password for his account.<br>
-  4. Ask your team member to download the Sales Connection app, and log in using his registered email and new password.<br><br>
+  1. At t<br><br>
 
+- **Scenarios below will need assisted check out:**<br>
+
+  1. If staff forgot to check out, what to do?<br>
+  2. Can't check in because didn't check out the previous one.<br>
+  3. User cannot check out.<br>
+
+  If you face any of these problems, please find your admin to assist you with the "force" check out.<br><br>
   
-- **What is the limit for me to add users?**<br>
-
-  The total number of user accounts available depends on your subscription plan.<br>
-  To check the remaining number of user accounts and desktop access available, go to the desktop site’s navigation bar > User Management > User List. It is stated at the top of this page under “Reminder.”<br>
-
-  <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/610484e57addef37c2bf955c40d9d80c662cfa6e/static/img/Original/Reminder%20of%20User%20List.png" alt="Reminder in User List">
-  </p>
-
-  **Here is the link:** https://salesconnection.my/usermanage/userlist<br><br>
-
-- **Why I cannot add a user?**<br>
+- **How to assist check out?**<br>
 
   You might have reached the maximum limit of user accounts that can be created.<br>
-  To check the remaining number of user accounts available, go to the desktop site’s navigation bar > User Management > User List. It is stated at the top of this page under “Reminder.”<br>
+  To assist check out, go to the desktop site’s navigation bar > User Management > User List. Here is the link: <br>
 
-  **Here is the link:** https://salesconnection.my/usermanage/userlist<br>
+  *Note: Only the admin is able to perform this action.<br>
   
   If you want to add more users, contact us to upgrade your subscription plan.<br><br>
 
-- **What are the required fields for me to add users to the system?**<br>
 
-  Name, telephone, email, staff category, account type and color (pick one to represent the user in the system).<br><br>
-  *Email is optional if the user only uses mobile device.<br><br>
-
-- **I have added the user to the system, what is the next step?**<br>
-
-  Ask the user to:<br>
-  1. Verify his account through a verification email sent from admin@salesconnection.my. He will receive another email with a password after verification.<br>
-  2. Download the Sales Connection app from Google Playstore or App Store.<br>
-  3. Log in using the registered phone number, or email address with a password.<br><br>
-
-&emsp;&emsp; *Only email addresses that are verified will be sent.<br>
-
-
+<p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/610484e57addef37c2bf955c40d9d80c662cfa6e/static/img/Original/Reminder%20of%20User%20List.png" alt="Reminder in User List">
+  </p>
 </aside>
