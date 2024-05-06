@@ -47,7 +47,11 @@ By using this method, you can choose the job status such as Not Started, In prog
 - **How to use job update report filter?**<br>
 
 1. In the Business Report page, select "Job Update Report".
-2. 
+2. Click the "Filter Table Record", and it will shows the filter below.
+
+<p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Update%20Report%20edited%20step%201.png">
+  </p>
 
 
                        
