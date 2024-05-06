@@ -7,7 +7,8 @@
 
 - **How to use filter to find newly created job?**<br>
 
-1. At the Business Management page, select Job Schedule.
+1. At the Business Management page, select Job Schedule.<br>
+   https://salesconnection.my/activity/scheduler
 2. Click the calender icon in the top right, can change the month that you want to view, you will able to view the newly created job.<br>
 
 *OR* <br>
