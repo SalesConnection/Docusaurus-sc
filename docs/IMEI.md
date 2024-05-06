@@ -12,21 +12,26 @@
   2. Unable to login and prompt IMEI login. (As shown picture below)<br>
 
   <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/610484e57addef37c2bf955c40d9d80c662cfa6e/static/img/Original/Reminder%20of%20User%20List.png" alt="Reminder in User List">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/IMEI%20Prompt%20-%20Mobile.png" alt="IMEI Prompt - Mobile">
   </p>
   
-  If you face any of these problems, please find your admin to assist you with enabling the IMEI.<br><br>
+  If you face any of these problems, please find your admin to assist you with disabling the IMEI.<br><br>
   
 - **Where is IMEI and How to Enable It?**<br>
 
-  The blue icon indicates that a user with “IMEI login check” enabled tried to log in to his account using another device. Admins can click on the blue button to clear IMEI* so that the user can log in using a new device.<br>
+  1. To enable the IMEI, go to the desktop site’s navigation bar > User Management > User List.<br>
+     Here is the link: https://salesconnection.my/usermanage/userlist<br>
 
-  <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/610484e57addef37c2bf955c40d9d80c662cfa6e/static/img/Original/Reminder%20of%20User%20List.png" alt="Reminder in User List">
-  </p>
+     <p align="center">
+       <img src="https://github.com/SalesConnection/support-docs/blob/610484e57addef37c2bf955c40d9d80c662cfa6e/static/img/Original/Reminder%20of%20User%20List.png" alt="Reminder in User List">
+     </p>
+  
+     *Note: Admins can also perform this action through the notification email received using the verified email address.<br><br>
+  
+  2. The blue icon indicates that a user with “IMEI login check” enabled tried to log in to his account using another device. Admins can click on the blue button to clear IMEI so that the user can log in using a new device.<br>
 
-  To enable the IMEI, go to the desktop site’s navigation bar > User Management > User List. You will see the blue icon beside the user.<br>
-  Here is the link: https://salesconnection.my/usermanage/userlist<br>
-  *Note: Admins can also perform this action through the notification email received using the verified email address.<br><br>
+     <p align="center">
+       <img src="https://github.com/SalesConnection/support-docs/blob/610484e57addef37c2bf955c40d9d80c662cfa6e/static/img/Original/Reminder%20of%20User%20List.png" alt="Reminder in User List">
+     </p>
 
 </aside>
