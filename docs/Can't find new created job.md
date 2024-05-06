@@ -5,7 +5,8 @@
     
 <br> <!-- Adding one line space -->
 
-- **How to use filter to find newly created job?**<br>
+- **How to use filter to find newly created job?**<br><br>
+**Desktop site:**<br>
 
 1. At the Business Management page, select Job Schedule.<br>
    **Filter job here:** https://salesconnection.my/activity/scheduler
@@ -24,3 +25,9 @@ By using this method, you can choose the job status such as Not Started, In prog
 1. At the same page, under the search bar, there is 3 default filter, which is User Department, Access Type, and Filter by User.
 2. Select the default filter you want and the job schedule.
 
+    **Mobile App:**<br>
+1. At the Sales Connection mobile app, select "Schedule" page in the bottom center.
+2. Select the filter icon in top right of the page.
+3. You can either filter the job by date, job category, or job status.
+   
+                       
