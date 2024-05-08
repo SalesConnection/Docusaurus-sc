@@ -34,4 +34,6 @@
        <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/IMEI%20icon.png" alt="IMEI Icon" width="350" height="150">
      </p>
 
+     *Note: IMEI cannot be approved using mobile.<br>
+
 </aside>
