@@ -15,10 +15,28 @@
     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Filter%20by%20date%20range%20step%201.png">
   </p>
 
-3. After that, it will show this Calendar. You can select which month you want to view for.<br>
+3. After that, it will show this Calendar. You can select which month you want to view for. For example, if you want to view for job in April 2024, you will need to click the "May", and you will be able to select month.<br>
 
 <p align="center">
     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Filter%20by%20date%20range%20step%202.png">
+  </p>
+
+4. Select "April"
+
+<p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Filter%20by%20date%20range%20step%203.png">
+  </p>
+
+5. Select date.
+
+<p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Filter%20by%20date%20range%20step%204.png">
+  </p>
+
+6. Now, you are able to view for Job in April 2024.
+
+<p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Filter%20by%20date%20range%20output.png">
   </p>
 
 **Mobile App:**<br>
@@ -43,10 +61,11 @@
 
 By using this method, you can choose the job status such as Not Started, In progress, or Completed.<br><br><br>
 
-- **How to use job update report filter?**<br>
+- **How to use job update report filter to apply date range?**<br>
 
 1. To use job update report filter, go to Business Report > Job Update Report.<br>
-   **Here is the link:** https://salesconnection.my/reports/activity-update
+   **Open the link here:** https://salesconnection.my/reports/activity-update
+
 2. Click the "Filter Table Record", and it will shows the filter below.
 
 <p align="center">
