@@ -34,10 +34,10 @@
        <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/IMEI%20icon.png" alt="IMEI Icon">
      </p>
 
-  3. Admins can click on the blue button to clear IMEI so that the user can log in using a new device.<br>
+  3. When the admin clicks on the blue icon, a message will pop up and the admin can clicks **Allow** to clear IMEI so that the user can log in using a new device.<br>
 
      <p align="center">
-       <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/IMEI%20icon.png" alt="IMEI Icon">
+       <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/IMEI%20allow.png" alt="IMEI Allow">
      </p>
   
      *Note: IMEI cannot be approved using mobile.<br>
