@@ -28,14 +28,21 @@
        <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Enable%20Assisted%20Checkout%20in%20UAC.png" alt="Enable Assisted Checkout in UAC">
      </p>
      
-  3. Click on **Disabled** on the user who needs this power (normally admin) and click the **Enable Assisted Checkout** to perform the action to other staff.<br>
+  3. Click on **Disabled** on the user who needs this power (normally admin).<br>
+
+     <p align="center">
+       <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Click%20Disabled%20for%20Assisted%20Checkout.png" alt="Click the Enable Assisted Checkout">
+     </p>
+  
+     *Note: Whoever with the **Enabled** for the Enable Assisted Checkout, they will have the power to perform the assist check out for every user.<br>
+
+  4. Click the **Enable Assisted Checkout** to perform the action to other staff.<br>
 
      <p align="center">
        <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Click%20Enable%20for%20Assisted%20Checkout.png" alt="Click the Enable Assisted Checkout">
      </p>
-  
-     *Note: Whoever with the **Enabled** for the Enable Assisted Checkout, they will have the power to perform the assist check out for every user.<br>
-  4. Click **Save Control Settings** to save the changes.<br>
+
+  5. Click **Save Control Settings** to save the changes.<br>
 
      <p align="center">
         <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Save%20Control%20Settings.png" alt="Save Control Settings">
