@@ -52,7 +52,7 @@
     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/Reminder%20of%20User%20List.png" alt="Reminder in User List">
   </p>
   
-  **Add New User Here:** https://salesconnection.my/usermanage/userlist<br><br>
+  **Check Your User Limit Here:** https://salesconnection.my/usermanage/userlist<br><br>
 
 - **Why I cannot add a user?**<br>
 
