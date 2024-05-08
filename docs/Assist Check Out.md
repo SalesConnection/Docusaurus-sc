@@ -13,8 +13,8 @@
 - **How to assist check out?**<br>
 
   **Enable Assist Check Out**<br>
-  1. You need to **enable** the assist check out in the system to perform further action. To enable assist check out, go to desktop site navigation bar > User Management > User Account Customisation.<br>
-     **Here is the link:** https://salesconnection.my/manageuac<br>
+  1. You need to **enable** the assist check out in the system to perform further action. To enable assist check out, go to desktop site navigation bar > User Management > User Account Customisation (UAC).<br>
+     **Open UAC Page Here:** https://salesconnection.my/manageuac<br>
 
      <p align="center">
        <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/User%20Account%20Customisation.png" alt="User Account Customisation">
@@ -46,7 +46,7 @@
   **Desktop Version**<br>
   1. Make sure that **Assisted Checkout** is enabled.<br>
   2. To assist check out, go to desktop site navigation bar > Business Map > Overview.<br>
-     **Here is the link:** https://salesconnection.my/BusinessMap<br>
+     **Open the Business Map Overview Here:** https://salesconnection.my/BusinessMap<br>
 
      <p align="center">
         <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/Business%20Map%20-%20Overview.png" alt="Business Map - Overview - Desktop">
