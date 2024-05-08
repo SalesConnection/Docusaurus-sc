@@ -44,7 +44,7 @@
   2. Select the filter icon in top right of the page.<br>
 
 <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Phone%20filter%20job%20.png">
+    <img src="">
   </p>
 
   3. You can either filter the job by date, job category, or job status.<br>
