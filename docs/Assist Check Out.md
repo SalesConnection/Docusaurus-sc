@@ -20,7 +20,7 @@
        <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/original/User%20Account%20Customisation.png" alt="User Account Customisation">
      </p>
 
-     *Note: Only the admin is able to perform this action.*<br>
+     *Note: Only the admin is able to perform this action.<br>
   
   2. Use Ctrl + f to search **Enable Assisted Checkout**.<br>
   
