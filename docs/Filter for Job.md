@@ -2,12 +2,13 @@
 ## 🔑 How to use filter function?
 <aside>
 
-- **How to use filter to find newly created job?**<br><br>
+- **How to filter job by date range?**<br><br>
 
 **Desktop site:**<br>
 
 1. To filter, go to Business Management > Job Schedule.<br>
-   **Filter Job Here:** https://salesconnection.my/activity/scheduler
+   **Filter Job Here:** https://salesconnection.my/activity/scheduler 
+
 2. Click the calender icon in the top right, can change the month that you want to view, you will able to view the newly created job.<br>
 
 <p align="center">
