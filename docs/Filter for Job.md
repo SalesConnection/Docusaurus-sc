@@ -6,10 +6,16 @@
 
 **Desktop site:**<br>
 
-1. To filter, go to Business Management > Job Schedule.<br>
+1. To filter job, go to Business Management > Job Schedule.<br>
    **Filter Job Here:** https://salesconnection.my/activity/scheduler 
 
-2. Click the calender icon in the top right, can change the month that you want to view, you will able to view the newly created job.<br>
+2. Click the calender icon in the top right corner of the page.
+
+<p align="center">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Filter%20by%20date%20range%20step%201.png">
+  </p>
+
+3. After that, it will show this Calendar. You can <br>
 
 <p align="center">
     <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20filter%20(month)%20.png">
