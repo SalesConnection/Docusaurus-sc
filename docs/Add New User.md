@@ -5,7 +5,7 @@
 - **How do I add users?**<br>
 
   1. At the desktop site's navigation bar, go to User Management > Invite User.<br>
-     **Here is the link:** https://salesconnection.my/usermanage/adduser<br>
+     **Add User Here:** https://salesconnection.my/usermanage/adduser<br>
   2. Fill out the details of your new team member and click Submit Form.<br>
 
   <p align="center">
