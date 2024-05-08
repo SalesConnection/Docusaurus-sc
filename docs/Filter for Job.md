@@ -18,7 +18,7 @@
 3. After that, it will show this Calendar. You can select which month you want to view for.<br>
 
 <p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20filter%20(month)%20.png">
+    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20Filter%20by%20date%20range%20step%202.png">
   </p>
 
 **Mobile App:**<br>
