@@ -8,7 +8,7 @@
 2. Select "Drop Down" to add new drop down options. 
 
 <p align="center">
-    <img src="">
+    <img src="img/">
   </p>
 
 3. Click the Pencil Icon to edit the new dropdown name.
