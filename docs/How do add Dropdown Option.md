@@ -51,14 +51,10 @@
     <img src="img/Dropdown_options_in_Quotation_8.png">
   </p>
   
+## 🔑 How to edit checklist dropdown options?
 
-9. 
 
-10. Click the calender icon in the top right, can change the month that you want to view, you will able to view the newly created job.<br>
 
-<p align="center">
-    <img src="https://github.com/SalesConnection/support-docs/blob/main/static/img/edited/Job%20filter%20(month)%20.png">
-  </p>
 
 
 Dropdown Option
@@ -68,3 +64,5 @@ Dropdown Option
 4. How to edit checklist dropdown options.
 
 **Mostly DF & asset
+
+
