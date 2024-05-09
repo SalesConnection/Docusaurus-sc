@@ -53,16 +53,22 @@
   
 ## 🔑 How to edit checklist dropdown options?
 
+1. For example, if you want to add dropdown options for Quotations. You need to click on the "MAIN NAVIGATION" > "Template Settings" > "Digital Form Templates" > "Digital Form Remplate Settings" .Select "Service Sheet"<br>
+   **Open the page here**: https://salesconnection.my/ServiceReport/TemplateSetting
 
+2. Select "Service Sheet"
 
+3. Drag down to "Custom Field View", Select the Checklist that you want to edit.
 
+4. Click the expand button.
 
-Dropdown Option
-1. Change dropdown options in Quotation.
-2. Add dropdown option in job order & DF.
-3. Rename dropdown option.
-4. How to edit checklist dropdown options.
+5. Click the "+ Manage Items"
 
-**Mostly DF & asset
+6. If you want to add new dropdown option for the checklist, click the dropdown button.
+
+7. Edit the checklist dropdown option by click on which option you want to edit.
+
+8. After edit, remember to save your change. <br><br>
+
 
 
